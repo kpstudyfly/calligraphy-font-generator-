@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Privacy Policy - Calligraphy Font Generator</title>
+    <meta name="description" content="Read our privacy policy. We value your privacy - our calligraphy generator works without storing your personal data or requiring logins.">
+        <link rel="stylesheet" href="https://hindifontstyle.online/pstyle.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Add this fallback internal style for critical elements -->
+    <style>
+    /* Critical styles that must load immediately */
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        width: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    /* Loading state for elements that depend on external CSS */
+    [data-lucide] {
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        background-color: currentColor;
+        mask-size: cover;
+    }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<div class="min-vh-100 bg-gradient-purple">
+        <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+           <a class="navbar-brand" href="/" style="
+    font-family: 'Brush Script MT', cursive;
+    font-size: 28px;
+    font-weight: bold;
+    color: #6A0DAD;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    letter-spacing: 1px;
+    transition: all 0.3s ease-in-out;
+    display: inline-block;
+">
+    Calligraphy Generator
+</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/"><i class="fas fa-home me-1"></i>Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/about.html"><i class="fas fa-info-circle me-1"></i>About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/privacy-policy.html"><i class="fas fa-shield-alt me-1"></i>Privacy Policy</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/terms-and-conditions.html"><i class="fas fa-file-contract me-1"></i>Terms</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/contact.html"><i class="fas fa-envelope me-1"></i>Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container my-5">
+        <div class="row">
+            <div class="col-lg-8 mx-auto">
+                <h1 class="display-4 text-primary-600 text-center mb-4">Privacy Policy</h1>
+                <p class="lead text-center">Last Updated: June 2025</p>
+                
+                <div class="hover-card p-4 my-4 bg-primary-100 rounded">
+                    <h4 class="text-primary-600">Key Points:</h4>
+                    <ul class="checklist ps-0">
+                        <li>We don't require accounts or logins</li>
+                        <li>Your generated text is never stored on our servers</li>
+                        <li>We use minimal cookies only for essential functions</li>
+                        <li>No selling of data to third parties</li>
+                    </ul>
+                </div>
+
+                <h3 class="mt-5">1. Information We Collect</h3>
+                <p>Our calligraphy font generator is designed to be privacy-friendly:</p>
+                <ul>
+                    <li><strong>No Registration Needed:</strong> Use our tool 100% anonymously</li>
+                    <li><strong>Generated Text:</strong> Processed in your browser only, not stored</li>
+                    <li><strong>Analytics:</strong> Basic usage data (country, device type) via anonymized Google Analytics</li>
+                </ul>
+
+                <h3 class="mt-5">2. How We Use Information</h3>
+                <p>Any data we collect is used solely to:</p>
+                <ul>
+                    <li>Improve our font generator tool</li>
+                    <li>Understand usage patterns to add popular fonts</li>
+                    <li>Ensure technical functionality</li>
+                </ul>
+
+                <h3 class="mt-5">3. Cookies & Tracking</h3>
+                <p>We use minimal cookies:</p>
+                <ul>
+                    <li><strong>Essential Cookies:</strong> For basic functionality</li>
+                    <li><strong>Analytics Cookies:</strong> Anonymized data about visits</li>
+                    <li><strong>No Advertising Cookies:</strong> We don't serve ads or tracking pixels</li>
+                </ul>
+                <p>You can disable cookies in your browser settings.</p>
+
+                <h3 class="mt-5">4. Third-Party Services</h3>
+                <p>We only use:</p>
+                <ul>
+                    <li>Google Analytics (anonymized data)</li>
+                    <li>Cloudflare (for security and performance)</li>
+                </ul>
+
+                <h3 class="mt-5">5. Changes to This Policy</h3>
+                <p>We'll notify users of significant changes via our website notice.</p>
+
+                <div class="hover-card p-4 my-5 bg-light rounded text-center">
+                    <h4 class="text-primary-600">Enjoy Our Free Tool With Peace of Mind</h4>
+                    <p>Generate beautiful calligraphy text without privacy concerns.</p>
+                    <a href="/" class="btn btn-primary mt-2">Try Generator Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Footer -->
+<footer class="bg-black text-white py-3 mt-4">
+    <div class="container">
+        <!-- Page Links -->
+        <ul class="list-inline text-center mb-2">
+            <li class="list-inline-item"><a href="/about" class="text-white text-decoration-none">About Us</a></li>
+            <li class="list-inline-item text-secondary">|</li>
+            <li class="list-inline-item"><a href="/contact" class="text-white text-decoration-none">Contact</a></li>
+            <li class="list-inline-item text-secondary">|</li>
+            <li class="list-inline-item"><a href="/privacy-policy" class="text-white text-decoration-none">Privacy</a></li>
+            <li class="list-inline-item text-secondary">|</li>
+            <li class="list-inline-item"><a href="/terms-and-conditions.html" class="text-white text-decoration-none">Terms</a></li>
+        </ul>
+
+        <hr class="border-secondary my-2">
+
+        <p class="text-center mb-0">Calligraphy Generator. All rights reserved.</p>
+    </div>
+</footer>
+    </div>
+
+</body>
+</html>
